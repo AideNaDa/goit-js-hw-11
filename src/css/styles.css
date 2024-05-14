@@ -70,3 +70,7 @@
   border-radius: 4px;
   width: 272px;
 }
+
+.loader{
+  display: none;
+}
